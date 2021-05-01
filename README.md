@@ -2,10 +2,13 @@
 
 
 ##High-throughput screening for NFA molecules
+
 ###Supplementary information for Computational identification of novel families of non-fullerene acceptors by modification of known compounds, by Z-W Zhao, Ö H. O, D Padula, Y Geng and A Troisi.
 
 ##Geometries
+
 ###The optimized 27 geometries of the selected promising NFA candidates are gathered in the 27xyzfile.rar file.
+
 ###They have been obtained via DFT/B35LYP/def2SVP optimization in Gaussian16. To split them, run
 ###obabel -ig09 *.log -oxyz -O opt_.xyz -m
 ###This will generate 27 .xyz file named opt_ID.xyz

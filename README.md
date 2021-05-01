@@ -18,7 +18,7 @@
 ###Properties
 ###Computed properties are gathered in the .csv file provided. Each row contains one molecule. The columns contain the properties of 5159 molecules and also some properties for ###re-optimized 27 molecules. 
 ##Miscellanea
-###•	ID: identifier of molecule
+### *	ID: identifier of molecule
 ###•	smiles: smiles string for the molecule
 ##Computed Properties
 ###•	HOMO: DFT/B3LYP/def2SVP HOMO energy for the molecule (eV)

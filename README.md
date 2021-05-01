@@ -2,7 +2,7 @@
 
 
 ## ***High-throughput screening for NFA molecules***
-### Supplementary information for Computational identification of novel families of non-fullerene acceptors by modification of known compounds, by Z-W Zhao, Ö H. O, D Padula, Y Geng and A Troisi.
+### Supplementary information for *Computational identification of novel families of non-fullerene acceptors by modification of known compounds*, by Z-W Zhao, Ö H. O, D Padula, Y Geng and A Troisi.
 
 
 ## ***Geometries***
@@ -11,15 +11,23 @@
 ### obabel -ig09 *.log -oxyz -O opt_.xyz -m
 ### This will generate 27 .xyz file named opt_ID.xyz
 
+
+
 ## ***Structures***
 ### To generate a 2-D representation of the 5159 geometries, use the smiles strings provided in the .csv file.
+
+
 
 ## ***Properties***
 ### Computed properties are gathered in the .csv file provided. Each row contains one molecule. The columns contain the properties of 5159 molecules and also some properties for re-optimized 27 molecules. 
 
+
+
 ## ***Miscellanea***
 ### •	ID: identifier of molecule
 ### •	smiles: smiles string for the molecule
+
+
 
 ## ***Computed Properties***
 ### •	HOMO: DFT/B3LYP/def2SVP HOMO energy for the molecule (eV)

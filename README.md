@@ -27,6 +27,7 @@ Computed properties are gathered in the .csv file provided. Each row contains on
 
 ## ***Miscellanea***
 •	ID: identifier of molecule
+
 •	smiles: smiles string for the molecule
 
 

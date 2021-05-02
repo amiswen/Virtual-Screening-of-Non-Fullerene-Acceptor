@@ -14,30 +14,30 @@ This will generate 27 .xyz file named opt_ID.xyz
 
 
 ## ***Structures***
-### To generate a 2-D representation of the 5159 geometries, use the smiles strings provided in the .csv file.
+To generate a 2-D representation of the 5159 geometries, use the smiles strings provided in the .csv file.
 
 
 
 ## ***Properties***
-### Computed properties are gathered in the .csv file provided. Each row contains one molecule. The columns contain the properties of 5159 molecules and also some properties for re-optimized 27 molecules. 
+Computed properties are gathered in the .csv file provided. Each row contains one molecule. The columns contain the properties of 5159 molecules and also some properties for re-optimized 27 molecules. 
 
 
 
 ## ***Miscellanea***
-### •	ID: identifier of molecule
-### •	smiles: smiles string for the molecule
+•	ID: identifier of molecule
+•	smiles: smiles string for the molecule
 
 
 
 ## ***Computed Properties***
-### •	HOMO: DFT/B3LYP/def2SVP HOMO energy for the molecule (eV)
-### •	LUMO: DFT/B3LYP/def2SVP LUMO energy for the molecule (eV)
-### •	LUMO+1: DFT/B3LYP/def2SVP LUMO+1 energy for the molecule (eV)
-### •	f(S1): TDDFT/M062X/def2-TZVP//B3LYP/def2SVP oscillator strength of the first singlet excited state
-### •	f(S2): TDDFT/M062X/def2-TZVP//B3LYP/def2SVP oscillator strength of the second singlet excited state
-### •	E(S1): TDDFT/M062X/def2-TZVP//B3LYP/def2SVP energy of the first singlet excited state (eV)
-### •	E(T1): TDDFT/M062X/def2-TZVP//B3LYP/def2SVP energy of the first triplet excited state (eV)
-### •	dS1T1: TDDFT/M062X/def2-TZVP//B3LYP/def2SVP energy difference of the first triplet and singlet excited state (eV)
-### •	ΔELL+1: DFT/B3LYP/def2SVP LUMO+1 energy difference of LUMO and LUMO+1 energy for the molecule (eV)
-### •	fmax: TDDFT/M062X/def2-TZVP//B3LYP/def2SVP oscillator strength of the excited state with strongest absorption of the three lowest states
-### •	consensus Log Po/w: lipophilicity of the molecule measured by the logarithm of octanol/water partition function 
+•	HOMO: DFT/B3LYP/def2SVP HOMO energy for the molecule (eV)
+•	LUMO: DFT/B3LYP/def2SVP LUMO energy for the molecule (eV)
+•	LUMO+1: DFT/B3LYP/def2SVP LUMO+1 energy for the molecule (eV)
+•	f(S1): TDDFT/M062X/def2-TZVP//B3LYP/def2SVP oscillator strength of the first singlet excited state
+•	f(S2): TDDFT/M062X/def2-TZVP//B3LYP/def2SVP oscillator strength of the second singlet excited state
+•	E(S1): TDDFT/M062X/def2-TZVP//B3LYP/def2SVP energy of the first singlet excited state (eV)
+•	E(T1): TDDFT/M062X/def2-TZVP//B3LYP/def2SVP energy of the first triplet excited state (eV)
+•	dS1T1: TDDFT/M062X/def2-TZVP//B3LYP/def2SVP energy difference of the first triplet and singlet excited state (eV)
+•	ΔELL+1: DFT/B3LYP/def2SVP LUMO+1 energy difference of LUMO and LUMO+1 energy for the molecule (eV)
+•	fmax: TDDFT/M062X/def2-TZVP//B3LYP/def2SVP oscillator strength of the excited state with strongest absorption of the three lowest states
+•	consensus Log Po/w: lipophilicity of the molecule measured by the logarithm of octanol/water partition function 

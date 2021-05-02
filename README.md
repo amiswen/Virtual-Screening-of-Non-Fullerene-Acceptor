@@ -1,4 +1,4 @@
-# Virtual-screening-of-Non-Fullerene-Acceptor
+# Virtual-Screening-of-Non-Fullerene-Acceptor
 
 
 ## ***High-throughput screening for NFA molecules***
